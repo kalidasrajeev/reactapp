@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/reactapp/static/css/main.393b41e3.chunk.css",
-    "main.js": "/reactapp/static/js/main.75eb7db2.chunk.js",
-    "main.js.map": "/reactapp/static/js/main.75eb7db2.chunk.js.map",
-    "runtime-main.js": "/reactapp/static/js/runtime-main.c89a6e28.js",
-    "runtime-main.js.map": "/reactapp/static/js/runtime-main.c89a6e28.js.map",
-    "static/js/2.4e0a0bf1.chunk.js": "/reactapp/static/js/2.4e0a0bf1.chunk.js",
-    "static/js/2.4e0a0bf1.chunk.js.map": "/reactapp/static/js/2.4e0a0bf1.chunk.js.map",
-    "static/js/3.71f34381.chunk.js": "/reactapp/static/js/3.71f34381.chunk.js",
-    "static/js/3.71f34381.chunk.js.map": "/reactapp/static/js/3.71f34381.chunk.js.map",
+    "main.js": "/reactapp/static/js/main.2f828a91.chunk.js",
+    "main.js.map": "/reactapp/static/js/main.2f828a91.chunk.js.map",
+    "runtime-main.js": "/reactapp/static/js/runtime-main.85bca170.js",
+    "runtime-main.js.map": "/reactapp/static/js/runtime-main.85bca170.js.map",
+    "static/js/2.966df795.chunk.js": "/reactapp/static/js/2.966df795.chunk.js",
+    "static/js/2.966df795.chunk.js.map": "/reactapp/static/js/2.966df795.chunk.js.map",
+    "static/js/3.afa36685.chunk.js": "/reactapp/static/js/3.afa36685.chunk.js",
+    "static/js/3.afa36685.chunk.js.map": "/reactapp/static/js/3.afa36685.chunk.js.map",
     "index.html": "/reactapp/index.html",
     "static/css/main.393b41e3.chunk.css.map": "/reactapp/static/css/main.393b41e3.chunk.css.map",
-    "static/js/2.4e0a0bf1.chunk.js.LICENSE.txt": "/reactapp/static/js/2.4e0a0bf1.chunk.js.LICENSE.txt"
+    "static/js/2.966df795.chunk.js.LICENSE.txt": "/reactapp/static/js/2.966df795.chunk.js.LICENSE.txt",
+    "static/media/expert.9953cd29.png": "/reactapp/static/media/expert.9953cd29.png",
+    "static/media/img-4.4cd04954.jpeg": "/reactapp/static/media/img-4.4cd04954.jpeg",
+    "static/media/img-5.2448e3f6.jpeg": "/reactapp/static/media/img-5.2448e3f6.jpeg",
+    "static/media/insta.5bbe2614.png": "/reactapp/static/media/insta.5bbe2614.png",
+    "static/media/phone2.29d1d7ce.jpg": "/reactapp/static/media/phone2.29d1d7ce.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c89a6e28.js",
-    "static/js/2.4e0a0bf1.chunk.js",
+    "static/js/runtime-main.85bca170.js",
+    "static/js/2.966df795.chunk.js",
     "static/css/main.393b41e3.chunk.css",
-    "static/js/main.75eb7db2.chunk.js"
+    "static/js/main.2f828a91.chunk.js"
   ]
 }
