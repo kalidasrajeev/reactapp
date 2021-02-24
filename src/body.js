@@ -81,7 +81,7 @@ const useStyles = makeStyles((theme) => ({
         fontFamily: 'poppins',
         fontWeight: '700',
         cursor: 'pointer',
-        MarginRight: '10px',
+        MarginRight: '9px',
         width: '100%'
     },
 
