@@ -204,7 +204,7 @@ export default function AutoGrid() {
                                  </Grid>
                              </Grid>
                          </Grid>
-                         <Grid item xs={12} style={{ marginLeft: '30px',marginTop: '20px' }}>
+                         <Grid item xs={12} style={{ marginLeft: '30px',marginTop: '15px' }}>
                              <div style={{ fontWeight: '700', color: 'black' }}>In The Box</div>
                              <Grid container spacing={2} style={{ marginTop: '10px'}}>
                                  <Grid item xs={4}>
@@ -227,7 +227,7 @@ export default function AutoGrid() {
                 </Grid>
                         </Grid>
 
-                    <Grid container style={{marginBottom: '10px' }}>
+                    <Grid container style={{marginBottom: '10px',marginTop: '20px' }}>
                       <Grid item xs={5}>
                          
                       </Grid>
