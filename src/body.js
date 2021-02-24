@@ -362,9 +362,9 @@ export default function AutoGrid() {
                                <Paper square className={classes.paper} elevation={0} >
                                  <div style={{background: 'red',color: 'white',padding: '2px',fontSize: '11px',display: 'inline'}}>20% OFF</div>
                                  <div style={{textAlign: 'center'}}><img src={image1} style={{width: '40%'}}/></div>
-                                 <div style={{color: 'black',fontWeight: '600',marginTop: '10px'}}>Apple iPhone 11</div>
+                                 <div style={{color: 'black',fontWeight: '600',marginTop: '10px',fontSize: '12px'}}>Apple iPhone 11</div>
                                  <div style={{fontSize: '11px'}}>Certified, Good Condition</div>
-                                 <div style={{ fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
+                                 <div style={{fontSize: '12px',fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
 
                                </Paper>
                                </div>
@@ -372,9 +372,9 @@ export default function AutoGrid() {
                                   <Paper square className={classes.paper} elevation={0} >
                                  <div style={{background: 'red',color: 'white',padding: '2px',fontSize: '11px',display: 'inline'}}>20% OFF</div>
                                  <div style={{textAlign: 'center'}}><img src={image1} style={{width: '40%'}}/></div>
-                                 <div style={{color: 'black',fontWeight: '600', marginTop: '10px'}}>Apple iPhone 11</div>
+                                 <div style={{color: 'black',fontWeight: '600', marginTop: '10px',fontSize: '12px'}}>Apple iPhone 11</div>
                                  <div style={{fontSize: '11px'}}>Certified, Good Condition</div>
-                                 <div style={{ fontWeight: '700',color: 'black', marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
+                                 <div style={{fontSize: '12px',fontWeight: '700',color: 'black', marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
 
                                </Paper>
                                </div>
@@ -382,9 +382,9 @@ export default function AutoGrid() {
                                   <Paper square className={classes.paper} elevation={0} >
                                  <div style={{background: 'red',color: 'white',padding: '2px',fontSize: '11px',display: 'inline'}}>20% OFF</div>
                                  <div style={{textAlign: 'center'}}><img src={image1} style={{width: '40%'}}/></div>
-                                 <div style={{color: 'black',fontWeight: '600', marginTop: '10px'}}>Apple iPhone 11</div>
+                                 <div style={{color: 'black',fontWeight: '600', marginTop: '10px',fontSize: '12px'}}>Apple iPhone 11</div>
                                  <div style={{fontSize: '11px'}}>Certified, Good Condition</div>
-                                 <div style={{ fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
+                                 <div style={{fontSize: '12px',fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
 
                                </Paper>
                                </div>
@@ -392,9 +392,9 @@ export default function AutoGrid() {
                                    <Paper square className={classes.paper} elevation={0} >
                                  <div style={{background: 'red',color: 'white',padding: '2px',fontSize: '11px',display: 'inline'}}>20% OFF</div>
                                  <div style={{textAlign: 'center'}}><img src={image1} style={{width: '40%'}}/></div>
-                                 <div style={{color: 'black',fontWeight: '600',marginTop: '10px'}}>Apple iPhone 11</div>
+                                 <div style={{color: 'black',fontWeight: '600',marginTop: '10px',fontSize: '12px'}}>Apple iPhone 11</div>
                                  <div style={{fontSize: '11px'}}>Certified, Good Condition</div>
-                                 <div style={{ fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
+                                 <div style={{fontSize: '12px',fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
 
                                </Paper>
                                
@@ -403,9 +403,9 @@ export default function AutoGrid() {
                                    <Paper square className={classes.paper} elevation={0} >
                                  <div style={{background: 'red',color: 'white',padding: '2px',fontSize: '11px',display: 'inline'}}>20% OFF</div>
                                  <div style={{textAlign: 'center'}}><img src={image1} style={{width: '40%'}}/></div>
-                                 <div style={{color: 'black',fontWeight: '600',marginTop: '10px'}}>Apple iPhone 11</div>
+                                 <div style={{color: 'black',fontWeight: '600',marginTop: '10px',fontSize: '12px'}}>Apple iPhone 11</div>
                                  <div style={{fontSize: '11px'}}>Certified, Good Condition</div>
-                                 <div style={{ fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
+                                 <div style={{fontSize: '12px',fontWeight: '700',color: 'black',marginTop: '10px' }}>AED 8349&nbsp;&nbsp;&nbsp;<span style={{ fontWeight: '500', fontSize: '11px' }}>AED 9000</span></div>
 
                                </Paper>
                                </div>
