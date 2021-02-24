@@ -1,2 +1,106 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons+Round');
+body
+{
+  font-family: Poppins;
+  background: #e0e0e0;
+  color: black;
+}
+.search
+{
+  position:relative;
+}
+.icon
+{
+  position:absolute;
+  right: 6px;
+  bottom: 4px;
+  color: gray;
+}
+
+.footerLinks
+{
+  list-style-type: none;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.footerLinks1
+{
+  list-style-type: none;
+  padding: 10px;
+  padding-Top: 1px;
+  font-size: 14px;
+  color: gray;
+  font-weight: 600;
+
+}
+
+.customizeSearch
+{
+  -moz-border-radius: 1.875rem;
+  -webkit-border-radius: 1.875rem;
+  width: 100%;
+  height: 100%;  
+  background: white;
+  border: 2px solid #fff;
+  box-sizing: border-box;
+  outline: none;
+  color: black;
+  font-size: 16px;
+  font-family: poppins;
+  font-weight: 500;
+  text-indent: 20px;
+}
+
+blockquote {
+    font-family: poppins;
+    position: relative;
+    margin: 0.5em;
+    padding: 0.5em 2em 0.5em 3em;
+}
+/* Thanks: http://callmenick.com/post/styling-blockquotes-with-css-pseudo-classes */
+blockquote:before {
+    font-family: Georgia, serif;
+    position: absolute;
+    font-size: 6em;
+    line-height: 1;
+    top: 0;
+    left: 0;
+    content: "\201C";
+    color: black;
+}
+blockquote:after {
+    font-family: Georgia, serif;
+    position: absolute;
+   /* display: block; don't use this, it raised the quote too high from the bottom - defeated line-height? */
+    float:right;
+    font-size:6em;
+    line-height: 1;
+    right:0;
+    bottom:-0.5em;
+    content: "\201D";
+    color: black;
+}
+blockquote footer {
+    padding: 2em 2em 0 0;
+    text-align:left;
+    color: black;
+}
+blockquote cite:before {
+    content: "\2013";
+    color: black;
+}
+
+       .reviews {
+            min-width: 100%;
+            height: 350px;
+            }
+          .reviews {display: flex}
+          .reviews {
+            overflow-x: auto;
+          }
+          .reviews::-webkit-scrollbar {
+            display: none;
+          }
